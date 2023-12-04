@@ -1,6 +1,8 @@
-# 💫 Hello👋🏽,
-<br>I am Kartikey Agarwal.<br><br>Electrical Engineering Sophomore, IIT-Delhi.
+<h1 align="center">Hello 👋, I'm Kartikey Agarwal</h1>
+<h3 align="center">Electrical Engineering Sophomore, IIT Delhi</h3>
 
+- 🌱 I’m currently learning about **Machine Learning and Data Structures**
+- 📫 Reach me at **ee1221156@iitd.ac.in**
 
 ## 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/kartikey-agarwal-bbbaa7244) 
