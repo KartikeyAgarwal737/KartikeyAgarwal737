@@ -17,5 +17,5 @@
 
 <p float="float" align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=KartikeyAgarwal737&show_icons=true&locale=en" alt="kartikeyagarwal" width="320"  height="320"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KartikeyAgarwal737&show_icons=true&locale=en&layout=compact" alt="kartikeyagarwal" width="240"  height="320"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KartikeyAgarwal737&show_icons=true&locale=en" alt="kartikeyagarwal" width="240"  height="320"/>
 </p>
