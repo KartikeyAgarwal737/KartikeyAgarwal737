@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Kartikey Agarwal</h1>
+<h1 align="center">Hello, I'm Kartikey Agarwal</h1>
 <h3 align="center">Electrical Engineering Sophomore, IIT Delhi</h3>
 
 - 🌱 Currently learning about **Data Structures, Probability, Stochastic Processes and Machine Learning**
