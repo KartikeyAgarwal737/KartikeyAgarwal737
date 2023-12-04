@@ -12,12 +12,9 @@
 <a href="https://www.tutorialspoint.com/java/index.htm" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://openai.com/blog/chatgpt"><img src="https://static.vecteezy.com/system/resources/previews/021/059/827/original/chatgpt-logo-chat-gpt-icon-on-white-background-free-vector.jpg" width="40" height="40"></a>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KartikeyAgarwal737&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=KartikeyAgarwal737&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=KartikeyAgarwal737&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KartikeyAgarwal737&label=Profile%20views&color=0e75b6&style=flat" alt="kartikeyagarwal" /> </p>
 
----
-[![](https://visitcount.itsvg.in/api?id=KartikeyAgarwal737&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p float="float" align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=KartikeyAgarwal737&show_icons=true&locale=en" alt="kartikeyagarwal" width="320"  height="320"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KartikeyAgarwal737&show_icons=true&locale=en&layout=compact" alt="kartikeyagarwal" width="240"  height="320"/>
+</p>
