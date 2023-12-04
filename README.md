@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Kartikey Agarwal</h1>
 <h3 align="center">Electrical Engineering Sophomore, IIT Delhi</h3>
 
-- 🌱 Currently learning about **Data Structures and Machine Learning**
+- 🌱 Currently learning about **Data Structures, Probability, Stochastic Processes and Machine Learning**
 - 📫 Reach me at **kartikayagarwal737@gmail.com**
 
 <h3 align="left">Currently working with</h3>
