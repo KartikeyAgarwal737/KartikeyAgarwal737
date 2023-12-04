@@ -2,19 +2,15 @@
 <h3 align="center">Electrical Engineering Sophomore, IIT Delhi</h3>
 
 - 🌱 Currently learning about **Data Structures and Machine Learning**
-- 📫 Reach me at **ee1221156@iitd.ac.in**
+- 📫 Reach me at **kartikayagarwal737@gmail.com**
 
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/in/kartikey-agarwal-bbbaa7244) 
-
-<h3 align="left">Currently Working with</h3>
+<h3 align="left">Currently working with</h3>
 <p align="center">
 <a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
 <a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.tutorialspoint.com/java/index.htm" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
 <a href="https://openai.com/blog/chatgpt"><img src="https://static.vecteezy.com/system/resources/previews/021/059/827/original/chatgpt-logo-chat-gpt-icon-on-white-background-free-vector.jpg" width="40" height="40"></a>
-
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=KartikeyAgarwal737&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
