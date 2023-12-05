@@ -6,12 +6,15 @@
 
 <h3 align="left">Currently working with</h3>
 <p align="center">
-<a href="https://www.w3schools.com/c/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.geeksforgeeks.org/c-plus-plus/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-<a href="https://www.tutorialspoint.com/matlab/index.htm" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/python/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.tutorialspoint.com/java/index.htm" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://openai.com/blog/chatgpt"><img src="https://static.vecteezy.com/system/resources/previews/021/059/827/original/chatgpt-logo-chat-gpt-icon-on-white-background-free-vector.jpg" alt="chatgpt" width="40" height="40"></a>
+<img src="https://github.com/KartikeyAgarwal737/KartikeyAgarwal737/assets/149513594/5ab77a7f-c36f-4f51-9914-060d15de87b9" alt="c" width="40" height="40"/> </a>
+<img src="https://github.com/KartikeyAgarwal737/KartikeyAgarwal737/assets/149513594/ee821249-8b37-4d72-84bd-9dc20b70f663" alt="cplusplus" width="40" height="40"/> </a>
+<img src="https://github.com/KartikeyAgarwal737/KartikeyAgarwal737/assets/149513594/b874acbf-2e81-438c-95da-a3bd30fbca94" alt="matlab" width="40" height="40"/> </a>
+<img src="https://github.com/KartikeyAgarwal737/KartikeyAgarwal737/assets/149513594/a38bbf00-baf3-48d1-a63b-4c61ad326f9b" alt="python" width="40" height="40"/> </a>
+<img src="https://github.com/KartikeyAgarwal737/KartikeyAgarwal737/assets/149513594/ff662e65-7493-4859-b50c-f95ea63d2f73" alt="java" width="40" height="40"/> </a>
+<img src="https://static.vecteezy.com/system/resources/previews/021/059/827/original/chatgpt-logo-chat-gpt-icon-on-white-background-free-vector.jpg" alt="chatgpt" width="40" height="40"></a>
+
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KartikeyAgarwal737&label=Profile%20views&color=0e75b6&style=flat" alt="kartikeyagarwal" /> </p>
 
